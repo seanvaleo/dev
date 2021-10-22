@@ -1,0 +1,5 @@
+# Checksum Data
+go.sum
+
+# MacOS Metadata
+.DS_Store
